@@ -1,3 +1,0 @@
-[submodule "BBBadSubmodule"]
-	path = BBBadSubmodule
-	url = git@github.com:iOSTestApps/BBBadSubmodule.git
