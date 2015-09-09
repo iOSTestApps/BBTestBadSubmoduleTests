@@ -1,0 +1,3 @@
+[submodule "Anypic"]
+	path = Anypic
+	url = git@github.com:iOSTestApps/Anypic.git
